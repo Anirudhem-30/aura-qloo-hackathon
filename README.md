@@ -62,8 +62,9 @@ OPENAI_API_KEY=your_openai_key
 QLOO_API_KEY=your_qloo_key
 ```
 Then run:
+```
 uvicorn main:app --reload
-
+```
 ### 3. Frontend Setup (Next.js)
 ```bash
 cd ../aura-frontend
