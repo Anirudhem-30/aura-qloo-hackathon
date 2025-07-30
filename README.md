@@ -32,7 +32,8 @@
 
 ## 🖼️ Screenshots
 
-> _Screenshots can be added here if needed for demo presentation._
+<img width="2487" height="1352" alt="image" src="https://github.com/user-attachments/assets/2d6a0e75-768e-458d-96e8-e54a5ee86bf0" />
+
 
 ---
 
