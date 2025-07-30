@@ -82,6 +82,7 @@ API keys are securely loaded using os.getenv() on the backend
 📄 License
 This project is submitted for the Qloo Hackathon and complies with OpenAI and Qloo API usage policies.
 For demonstration and non-commercial use only.
-
+```
 👤 Author
 Made with ❤️ by Anirudh Esthuri
+```
