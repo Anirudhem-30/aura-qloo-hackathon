@@ -26,7 +26,7 @@
 | Frontend       | Backend         | AI/ML              | APIs          |
 |----------------|-----------------|--------------------|---------------|
 | Next.js (TS)   | FastAPI (Python) | OpenAI GPT-3.5     | Qloo API      |
-| Tailwind CSS   | Pydantic        |                    | dotenv/env    |
+| Tailwind CSS   | Pydantic        |                    | OpenAi    |
 
 ---
 
