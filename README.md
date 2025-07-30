@@ -1,6 +1,6 @@
 # Aura 🌐🎭  
 **Cultural Mood-Based Recommendations Platform**  
- Submission for the [Qloo Hackathon](https://hackathon.qloo.com)
+ Submission for the [Qloo Hackathon]([https://hackathon.qloo.com](https://qloo-hackathon.devpost.com/))
 
 ---
 
